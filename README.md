@@ -1,7 +1,11 @@
 # Token Radar — pre-token protocols ranked by implied value
 
+[![make.fun](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/vivcupu21/token-radar-01/rank.svg)](https://make.fun/bounty/token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/vivcupu21/token-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01)
+
 A radar of pre-token protocols ranked by what their token launch would be worth,
-with a farm plan for each. Built for the make.fun token-radar-01 competition.
+with a farm plan for each. Built for the make.fun [token-radar-01 competition](https://make.fun/bounty/token-radar-01).
 
 ## How it works
 
